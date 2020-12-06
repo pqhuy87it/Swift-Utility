@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		115669F6248D5C18008FF8DB /* Delay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 115669F5248D5C18008FF8DB /* Delay.swift */; };
+		1168C71C257CA33A00C0D700 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1168C71B257CA33A00C0D700 /* Animation.swift */; };
 		11BB39462475861B0023CCE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BB39452475861B0023CCE8 /* AppDelegate.swift */; };
 		11BB39482475861B0023CCE8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BB39472475861B0023CCE8 /* SceneDelegate.swift */; };
 		11BB394A2475861B0023CCE8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BB39492475861B0023CCE8 /* ViewController.swift */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		115669F5248D5C18008FF8DB /* Delay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Delay.swift; sourceTree = "<group>"; };
+		1168C71B257CA33A00C0D700 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
 		11BB39422475861B0023CCE8 /* Swift-Utility.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Utility.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11BB39452475861B0023CCE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11BB39472475861B0023CCE8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				640D215C24763DBE0004AF3F /* NSRegularExpression.swift */,
 				640D215E2476412D0004AF3F /* StringUtility.swift */,
 				640D216024769A440004AF3F /* UINavigationBar-Utility.swift */,
+				1168C71B257CA33A00C0D700 /* Animation.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -293,6 +296,7 @@
 				640D216124769A440004AF3F /* UINavigationBar-Utility.swift in Sources */,
 				11BB3979247586F90023CCE8 /* GCD-Utility.swift in Sources */,
 				11BB39482475861B0023CCE8 /* SceneDelegate.swift in Sources */,
+				1168C71C257CA33A00C0D700 /* Animation.swift in Sources */,
 				640D215F2476412D0004AF3F /* StringUtility.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
